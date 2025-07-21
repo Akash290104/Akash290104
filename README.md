@@ -9,7 +9,7 @@ When I'm not coding, you’ll find me **traveling**, **reading**, or exploring n
 ---
 
 ## 🚀 What I'm Working On  
-🔭 **Currently working on**: A chat application with **React, Node.js, and Socket.IO**  
+🔭 **Worked on**: A chat application with **React, Node.js, and Socket.IO**, an LMS application and a Cloud storage application  
 🌱 **Currently learning**: Advanced **system design** and **optimizing algorithms**  
 👯 **Looking to collaborate on**: **Open-source projects** & **full-stack applications**  
 💬 **Ask me about**: **React, Node.js, C++, Data Structures & Algorithms**  
