@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akash290104&label=Profile%20views&color=0e75b6&style=flat)  
 
-I'm a **pre-final year B.Tech. student** at **IIIT Ranchi**, specializing in **Computer Science and Engineering**. Passionate about **full-stack development** and **competitive programming**, I love crafting efficient, scalable solutions and building dynamic web applications.  
+I'm a **final year B.Tech. student** at **IIIT Ranchi**, specializing in **Computer Science and Engineering**. Passionate about **full-stack development** and **competitive programming**, I love crafting efficient, scalable solutions and building dynamic web applications.  
 
 When I'm not coding, you’ll find me **traveling**, **reading**, or exploring new ideas. I thrive in **collaborative** and **fast-paced** environments where I can **learn, grow**, and have fun along the way!  
 
